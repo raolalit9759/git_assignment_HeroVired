@@ -8,7 +8,7 @@ Used this command on gitbash in Local :- git clone sshURL .
 
 Dir will create on local by the name of git_assignment_HeroVired go to in it.
 
-(B)For Creation dev branch used this command on git bash :- 
+(B) For Creation dev branch used this command on git bash :- 
 1 git branch dev
 
 2 git checkout dev
