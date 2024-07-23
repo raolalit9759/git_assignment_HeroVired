@@ -9,3 +9,6 @@ A(1). First of all create repo on Git hub by the Name the of git_assignment_Hero
 4. Dir will create on local by the name of git_assignment_HeroVired go to in it.
 
 B. For Creation dev branch used this command on git bash :- 
+git branch dev
+git checkout dev
+
