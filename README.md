@@ -21,7 +21,9 @@ This application provides basic arithmetic operations, such as addition, subtrac
 4 Used the command git add  CalculatorPlus.py for Tracked file or (git add . for all files which are not tracked)
 
 5 Use this command for save msg and commit :- 
+
 git commit -m "Fix:- The application provides basic arithmetic operations, like  addition, subtraction, multiplication, and division"
 
 6  Push the changes to remote repository on dev branch :- 
+
 git push -u origin dev
