@@ -9,7 +9,7 @@ A. First of all create repo on Git hub by the Name the of git_assignment_HeroVir
  Dir will create on local by the name of git_assignment_HeroVired go to in it.
 
 B. For Creation dev branch used this command on git bash :- 
- git branch dev
+ 1.git branch dev
 
- git checkout dev
+ 2.git checkout dev
 
