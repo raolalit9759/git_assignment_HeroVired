@@ -1,6 +1,6 @@
 ## Graded Assignment on Git and GitHub ######################################################################################################################
 
-A. First of all create repo on Git hub by the Name the of git_assignment_HeroVired .
+A First of all create repo on Git hub by the Name the of git_assignment_HeroVired .
 
  Repo is Private and READ MD & .gitignore file also add .
 
@@ -8,8 +8,8 @@ A. First of all create repo on Git hub by the Name the of git_assignment_HeroVir
 
  Dir will create on local by the name of git_assignment_HeroVired go to in it.
 
-B. For Creation dev branch used this command on git bash :- 
- 1. git branch dev
+B For Creation dev branch used this command on git bash :- 
+ 1 git branch dev
 
- 2. git checkout dev
+ 2  git checkout dev
 
