@@ -27,3 +27,17 @@ git commit -m "Fix:- The application provides basic arithmetic operations, like 
 6  Push the changes to remote repository on dev branch :- 
 
 git push -u origin dev
+
+7 Now Add the new code for function to calculate the square root of a number so that we can implementation to add the square root feature.
+
+To tracket file 
+
+git add .  
+
+git commit -m "New Function add the square root feature"
+
+Now Push code to dev branch 
+
+git push -u origin dev
+
+
