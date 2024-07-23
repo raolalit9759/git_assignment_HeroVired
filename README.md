@@ -12,4 +12,12 @@ Dir will create on local by the name of git_assignment_HeroVired go to in it.
 1 git branch dev
 
 2 git checkout dev
+Now we are in dev branch 
+code . Used this command on git bash for go to in Vs code  
 
+3 The Code which given in assignment by the name of CalculatorPlus with .py extiontion need to save it on VS code .
+This application provides basic arithmetic operations, such as addition, subtraction, multiplication, and division. 
+
+4 Used the command git add  CalculatorPlus.py for Tracked file or (git add . for all files which are not tracked)
+
+5 Use this command for save msg and commit :- git commit -m "Fix:- The application provides basic arithmetic operations, like  addition, subtraction, multiplication, and division"
