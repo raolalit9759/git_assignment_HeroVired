@@ -50,3 +50,19 @@ git commit -m "FIXED:- square root feature"
 
 Push the changes to remote repository on dev branch :- 
 git push -u origin dev
+
+(C) Merge this branch with the main branch Used below command on git bash :- 
+
+git checkout main
+
+git pull
+
+git checkout main
+
+git tag version1
+
+git push origin version1
+
+Go to github UI click on 
+
+
