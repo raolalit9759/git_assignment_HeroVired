@@ -63,6 +63,12 @@ git tag version1
 
 git push origin version1
 
-Go to github UI click on 
+Go to github UI take refresh
+
+Tag option will show version name 
+
+go to release option on right side of git Hub select tag name describe comments in comments option select target main and save.
+
+(D) Go to setting of repo 
 
 
