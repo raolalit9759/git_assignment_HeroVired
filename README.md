@@ -71,4 +71,8 @@ go to release option on right side of git Hub select tag name describe comments 
 
 (D) Go to setting of repo 
 
+Click on collaborators options and click on add people under manage access provide user name and click button .
+ under manage access user name invite option wiil be pending .
+ under notification option user which received collaborators request accept invitation  
+ 
 
