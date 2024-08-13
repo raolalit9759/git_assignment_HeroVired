@@ -74,5 +74,19 @@ go to release option on right side of git Hub select tag name describe comments 
 Click on collaborators options and click on add people under manage access provide user name and click button .
  under manage access user name invite option wiil be pending .
  under notification option user which received collaborators request accept invitation  
+
+ (E) Create branch by the name of feature/sqrt.f by below command 
+
+  git branch feature/sqrt.f
+
+   git checkout feature/sqrt.f
+
+   Push the code to feture/sqrt.f branch on remote repo
+
+   git push -u origin feature/sqrt.f
+
+   Take refresh from Git UI new branch wiil add with code .
+
+   
  
 
