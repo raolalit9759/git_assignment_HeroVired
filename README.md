@@ -81,7 +81,14 @@ Click on collaborators options and click on add people under manage access provi
 
    git checkout feature/sqrt.f
 
-   Push the code to feture/sqrt.f branch on remote repo
+   (F) Add the ‘sqrt’ code to CalculatorPlus.py 
+
+   Tracked file
+   git add .
+
+   git commit -m " Add feture/sqrt.f branch"
+
+   Now Push code to feture/sqrt.f branch on remote repo
 
    git push -u origin feature/sqrt.f
 
